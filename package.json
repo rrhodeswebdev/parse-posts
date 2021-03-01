@@ -1,0 +1,18 @@
+{
+	"name": "parse-posts",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"parse": "node parse.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"consola": "^2.15.0",
+		"csv-parser": "^3.0.0",
+		"csv-writer": "^1.6.0",
+		"lodash": "^4.17.20"
+	}
+}
