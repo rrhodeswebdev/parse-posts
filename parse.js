@@ -34,6 +34,7 @@ const csvWriter = createCsvWriter({
 		{ id: 'Author First Name', title: 'Author First Name' },
 		{ id: 'Author Last Name', title: 'Author Last Name' },
 		{ id: 'Slug', title: 'Slug' },
+		{ id: '_links_to', title: '_links_to'}
 	],
 });
 
